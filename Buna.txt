@@ -1,1 +1,6 @@
 Ceva
+<<<<<<< HEAD
+Buna Francesca
+=======
+buna andi
+>>>>>>> f787e2b709a18fdd8950e29cf048c13d066500ad
